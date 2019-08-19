@@ -300,10 +300,7 @@ tags
 ### Project template
 
 sassy_life/media/
-
 .pytest_cache/
-
-
 .ipython/
 .env
 .envs/*
